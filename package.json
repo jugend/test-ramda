@@ -1,0 +1,15 @@
+{
+  "name": "test-ramda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "testPipe": "NODE_NO_WARNINGS=1 node --experimental-modules test-pipe.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
